@@ -10,7 +10,7 @@ const title = document.getElementById('title');
 const cover = document.getElementById('cover');
 
 // Song titles
-const songs = ["Mirrors","Daze Inn","Snowman","Starboy","Reminder","The Hills","Can't Feel my Face","I Feel it Coming","In the Night","Party Monster","Heartless","Blinding Lights",
+const songs = ["Mirrors","Daze Inn","Snowman","Just Like You","Wake Up Vamps","Just Hold On","Starboy","Reminder","The Hills","Can't Feel my Face","I Feel it Coming","In the Night","Party Monster","Heartless","Blinding Lights",
                 "After Hours","Call out my Name","Unforgettable","iSPY","Silence","The Nights","Dusk Till Dawn","Pillowtalk","Still got Time",
                 "Stargazing","Highest in the room","BUTTERFLY EFFECT","Wake up","SICKO MODE","Yosemite","Can't Say","Who What","Some Way","No Idea","Swang",
                 "Circles","WOW","Goodbyes","Candy Paint","Saint Tropez","White Iversion","Congratulations","Pyscho",

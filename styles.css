@@ -13,6 +13,7 @@ body{
     justify-content: center;
     margin: 0;
     font-family: 'Lato',sans-serif;
+    width: 100%;
 }
 
 h1{
@@ -22,11 +23,9 @@ h1{
 }
 h2{
    color: white;
-   margin-top: 30px;
-   display: flex;
-   position: relative;
-   z-index: 10;
-   justify-content: right;
+   margin-top: 60%;
+   font-size: small;
+   
 }
 h3{
     color: whitesmoke;
@@ -43,6 +42,7 @@ h3{
     margin: 100px 0;
     position: relative;
     z-index: 10;
+    
 }
 
 .image-container{
